@@ -48,5 +48,3 @@ This project integrates **artificial intelligence** and **hardware** to develop 
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-## 💬 Contact
-For inquiries or collaboration, please reach out via [email/contact info].
