@@ -49,4 +49,4 @@ This project integrates **artificial intelligence** and **hardware** to develop 
 This project is licensed under the **MIT License**.
 
 ## 🙌
-The project is dependent on the ProjectX. 
+The project is dependent on the [**Project X**](https://github.com/Project-X-Yonsei). 
